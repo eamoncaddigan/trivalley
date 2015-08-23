@@ -2,10 +2,10 @@
 layout: post
 title:  "Welcome!"
 date:   2015-08-23 12:43:27
-categories: jekyll update
+categories: trivalley update
 ---
 Welcome to the newly launched website for the Tri-Valley Center for Human
 Potential. The center has a [distinguished
 history](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=6577844)
-in the fields of Psychology and Neuroscience.
+in the fields of Psychology and Neuroscience and strives to improve our understanding of the human mind. 
 
